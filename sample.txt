@@ -1,0 +1,15 @@
+this is my first git file 
+using linux will be learning 
+commit in gid
+commint in git
+
+commit in git
+commit in git
+c
+d
+exit
+ls -lrt
+exit
+git status
+EOD
+exit
