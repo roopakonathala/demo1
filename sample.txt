@@ -1,17 +1,6 @@
 this is my first git file 
 using linux will be learning 
-commit in gid
-commint in git
+this add in test branch
 
-commit in git
-commit in git
-c
+[Acommit sample.txt
 d
-exit
-ls -lrt
-exit
-git status
-EOD
-exit
-add me
-commit sample.txt
