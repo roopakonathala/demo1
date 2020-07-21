@@ -13,3 +13,5 @@ exit
 git status
 EOD
 exit
+add me
+commit sample.txt
