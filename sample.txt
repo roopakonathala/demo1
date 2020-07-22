@@ -1,2 +1,2 @@
-this is my first git file 
+This is my first git file 
 using linux will be learning 
